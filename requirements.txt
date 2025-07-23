@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pillow
+scikit-learn
+torch
+openai-clip
+python-multipart
